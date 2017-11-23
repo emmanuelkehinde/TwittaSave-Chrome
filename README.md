@@ -16,7 +16,7 @@ Download Twitter Videos and animated Gif directly to your device.
 
 ### License
 ```
-   Copyright (C) 2017 MINDORKS NEXTGEN PRIVATE LIMITED
+   Copyright (C) 2017 Emmanuel Kehinde
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
